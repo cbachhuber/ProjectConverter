@@ -13,7 +13,7 @@ A lot of Embedded Projects use proprietary IDEs and build processes. This make a
 
 Install `python3` on your system run:
 ```shell
-pip install Jinja2
+pip install Jinja2 lxml
 ```
 
 ## Usage
